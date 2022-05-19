@@ -1,0 +1,262 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{fullpage}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\title{Assignment}
+\author{\textbf{Susmoy Jaman}}
+\date{May 2022}
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+\textbf{{CONTEMPORARY RESEARCH IN INDIA (ISSN 2231-2137): SPECIAL ISSUE : APRIL, 2021}\\}
+    
+\end{center}
+\begin{center}
+RESEARCH PAPER ON CLOUD COMPUTING Mrs. Ashwini Sheth1
+, Mr. Sachin Bhosale2
+, Mr. Harshad Kadam3
+Asst. Prof.1
+, Department of C.S., I.C.S. College, Khed, Ratnagiri
+H.O.D.2
+, Department of I.T., I.C.S. College, Khed, Ratnagiri
+Student3
+, M.Sc. I.T., I.C.S. College, Khed, Ratnagri\\
+    
+\end{center}
+
+\section{}
+    \textit{\textbf{Abstract:} Cloud Computing has come of age later Amazons introduce the first of its kind of cloud services in2006. It is
+particularly suitable to Hong Kong because of the unbelievable amounts of the data that are being processed here daily in several
+sectors, and there are signs that subscription to cloud services by the local companies will soon be on a skyrocket course, despite
+a slow start in beginning years. As a research theme, cloud computing now easily tops any schedule of topics in a computer
+science because of its far-reaching suggestion in many sector in computing, especially a big data which without cloud computing is
+at the great concept. The current creation of a main cloud R&D centre in Hong Kong by Lenovo (January 2015) attests to
+this fact.
+Cloud computing, the life time dream of computing as a utility, has the capacity to convert a huge part of the IT industry,
+making software even more attractive as a service and shaping the way IT hardware is designed and purchased. Developers with
+new invention ideas for new Internet services no longer require the huge capital outlays in hardware to deploy their service or the
+human expense to operate it. They need not be worried about overprovisioning for a service whose popularity does not meet their
+predictions, thus wasting costly resources, or under provisioning for one that becomes wildly popular, thus missing potential
+customers and revenue. In addition to, companies with huge batch-oriented tasks can get results as fastest as their programs can
+scale, since using 1,000 servers for one hour costs no more than using one server for 1,000 hours. Without paying a premium for
+large scale, is unprecedented in the history of IT, by this elasticity of resources.\\
+}
+
+
+
+    \textbf{Introduction}
+Joseph Carl Robnett Licklider in the 1960s
+developed Cloud Computing with his work on
+ARPSNET to interact with people and data from in
+any place at any time. In 1983, CompuServe
+presented its users as a little amount of disk space
+that could be used to accumulate any files they
+choose to upload.
+Simply put, Cloud working out is the
+distribution of Computing services-including servers,
+database, networking, storage, software, analytics and
+intelligence-over the Internet (“the Cloud“) to offer
+faster revolution, flexible resources, and economies
+of scale. Cloud working out is the delivery of
+computing services such as servers, storage, database,
+networking, software, analytics, intelligence, and
+more, over the Cloud (Internet). Cloud Computing
+gives a different to the on-premises datacentre.
+Mobility.
+One of the other largest outward uses of
+cloud calculating is the mobility that it brings, Both
+to the pleasurable user, as well as to the commercial
+and business user. Many of us are already conversant
+with some Cloud Computing services, like Google
+Docs, or even email services. The utmost popular
+Cloud Computing products include AWS Elastic
+Compute, Google Cloud Engine and AWS Lambda.
+The most famous cloud computing services
+are including Amazon Web Services, Google Cloud
+platform and Microsoft Azure. Cloud Computing is
+flexible. Cloud-based services are model for
+businesses with increasing or changeable bandwidth
+demands. If your requirements increase, it’s easy to
+ruler up your cloud capacity, drawing on the service’s
+remote servers.
+Accessibility; Cloud computing smooth’s the
+entrance of implementation and data from any
+location worldwide and from any device with an
+internet connection. Cost savings; Cloud computing\\
+
+
+
+    \textbf{CONTEMPORARY RESEARCH IN INDIA (ISSN 2231-2137): SPECIAL ISSUE : APRIL, 2021 \\}
+
+
+
+proposals businesses with accessible computing
+resources hence saving them on the cost of obtaining
+and maintaining them. Examples of Cloud
+Computing Dropbox, Facebook, Gmail. Cloud can
+be used for storage of files. Banking, Financial
+Services.
+Consumers accumulation financial
+information to cloud computing serviced providers.
+Health care. Education. Government. Big data
+Analytics. Communication. Business Process. Variety
+of Cloud Computing There are three important types
+of cloud environment, also known as cloud
+distribution models. Businesses can select to run
+applications on communal, personal or mixture
+clouds — depending on their definite requirements.
+Cloud computing refers to both the
+applications delivered as services over the Internet
+and the hardware and systems software in the data
+centres that gives those services. The services
+themselves have huge been referred to as Software as
+a Service (SaaS).a Some vendors use terms such as
+IaaS (Infrastructure as a Service) and PaaS (Platform
+as a Service) to reate their products, but we eschew
+these because accepted definitions for them still vary
+broadly. The line between "low-level" infrastructure
+and a higher-level "platform" is not crisp. We believe
+the two are more alike than different, and we
+examine them together. Likewise it is, the related
+term "grid computing," from the high-performance
+computing community, suggests protocols to offer
+shared computation and storage over long distances,
+but those protocols did not lead to a software
+environment that grew beyond its community.
+We see three specifically compelling use cases
+that favour utility computing over conventional
+hosting. A opening case is when demand for a
+service varies with time. For example, provisioning a
+data centre for the peak load it must sustain a few
+days per month leads to underutilization at other
+times. rather, cloud computing lets an company pay
+by the hour for computing resources, potentially
+leading to cost savings even if the hourly rate to rent
+a machine from a cloud giver is larger than the rate
+to own one. A second case is when demand is
+unknown in advance. For example, a Web start up
+will need to support a spike in demand when it
+becomes famous, followed potentially by a reduction
+once some visitors turn away. Finally, company that
+perform batch analytics can use the "cost
+associativity" of cloud computing to finished
+computations faster: using 1,000 EC2 machines for
+one hour costs the same as using one machine for
+1,000 hours.
+While the economic appeal of cloud
+computing is often related as "converting capital
+expenses to operating expenses" (CapEx to OpEx),
+we believe the phrase "pay as you go" more directly
+captures the economic benefit to the buyer. Hours
+purchased via cloud computing can be distributed
+non-uniformly in time (for example, use 100 serverhours today and no server-hours tomorrow, and still
+pay only for 100); in the networking community, this
+way of selling bandwidth is since known as usagebased pricing’s In extension, the absenteeism of upfront capital expense allows capital to be redirected
+to core business investment.
+Therefore, even if Amazon's pay-as-you-go
+pricing was more expensive than buying and
+depreciating a comparable server over the same
+period, we argue that the cost is outweighed by the
+extremely main cloud computing economic
+advantage of elasticity and transference of risk,
+especially the risks of overprovisioning
+(underutilization) and under provisioning
+(saturation).
+We start with elasticity. The key examination
+is that cloud computing's ability to add or remove
+resources at a fine grain (one server at a time with
+EC2) and with a lead time of minutes rather than
+weeks allows matching resources to workload much
+more closely. Real world estimates of average server
+used in data centres range from 5% to 20%.15,17
+This may sound shockingly low, but it is consistent
+with the observation that for many services the peak
+workload beat the average by factors of 2 to 10.
+Since few users intentionally provision for less than\\
+
+
+ \textbf{CONTEMPORARY RESEARCH IN INDIA (ISSN 2231-2137): SPECIAL ISSUE : APRIL, 2021\\}
+ 
+ the expected peak, resources are idle at nonpeak
+times. The large pronounced the variation, the large
+the waste.
+For a simplified example, assume that users
+of a hypothetical site fall into two classes: active
+users (those who use the site regularly) and defectors
+(those who abandon the site or are turned away from
+the site due to poor performance). Additionally,
+suppose that 10% of active users who receive poor
+service due to under provisioning are "permanently
+lost" opportunities (become defectors), that is, users
+who would have remained regular visitors with a
+better experience. The site is initially provisioned to
+handle an expected peak of 400,000 users (1,000
+users per server × 400 servers), but unexpected
+positive press drives 500,000 users in the first hour.
+Of the 100,000 who are turned away or receive
+inferior service, by our assumption 10,000 of them
+are everlasting lost, leaving an active user base of
+390,000. The next hour sees 250,000 new distinctive
+users.
+From a hardware provisioning and pricing
+point of view, three aspects are new in cloud
+computing which are as follows:\\
+
+\subsection{\textbf{Public cloud}}
+   A public cloud environment is maintained by
+an outsourced cloud provider and is reachable to
+many businesses through the internet on a pay-peruse model. This distribution model provides services
+and organization to businesses who want to save
+money on IT operational costs, but it’s the cloud
+provider who is responsible for the invention and
+safeguarding of the resources.
+Public clouds are model aimed at minor with
+average magnitude businesses with a constricted
+budget requiring a quick and easy platform in which
+to deploy IT resources. Merits of a public cloud Easy
+scalability No geographical restrictions Cost effective
+Highly reliable Easy to manage Demerits of a public
+is Not examine the safest option for sensitive data\\
+
+\subsection{\textbf{Private cloud}}
+This cloud distribution model is a modified
+infrastructure maintained by a single business. It
+offers a precise environment in which contact to IT
+resources is additionally centralized within the
+business. The present exemplary perhaps visibly
+introduced either obtainable handled internal. Even
+though secluded cloud introducing obtainable
+valuable, as largest productions it could be action a
+developed equal of safety and extra self-sufficiency
+to modify the storing, interacting and calculate
+mechanisms toward ensemble their IT necessities.\\
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\linewidth]{wallpaperflare.com_wallpaper (10).jpg}
+    \caption{Assignment}
+    \label{fig:my_label}
+\end{figure}
+ 
+ 
+\textbf{ Math Equation:\\}
+$y=x^2+2x^3+44$
+
+
+
+\subsection{\textbf{Table}}
+\begin{tabular}{|l|c|r|}
+\hline
+  Name & Gender & Roll  \\
+  \hline
+Sjs & Male & 11\\ 
+\hline
+smj & Male & 12\\
+\hline
+\end{tabular}
+
+\end{document}
